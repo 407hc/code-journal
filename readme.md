@@ -1,5 +1,5 @@
 # 03 de julho de 2026 - s01-030726
-Nesta sessão, estou iniciando os estudos de "lógica de programação".
+<> [phthon/*] Nesta sessão, estou iniciando os estudos de "lógica de programação".
 
 O script "Bloco 01 - Variáveis/01-pratica.py" representa a criação de variáveis e adoção de valores para operação de multiplicação e por fim, a apresentacão dos resultados com o comando print.
 
@@ -16,7 +16,7 @@ O script "Bloco 02 - Condicionais/03-pratica.py" foi utilizado o script "Bloco 0
 O script "Bloco 02 - Condicionais/04-pratica.py" foi utilizado o script "Bloco 02 - Condicionais/03-pratica.py" para comparar valores e tomar decisões com a condição "elif", a fim de conhecer melhor a lógica de programação quando existe mais de uma possibilidade de tomada de decisão.
 
 # 04 de julho de 2026 - s02-040726
-Nesta sessão, estou praticando a criação de variáveis e condicionais em um novo cenário hipotético.
+<> [phthon/*] Nesta sessão, estou praticando a criação de variáveis e condicionais em um novo cenário hipotético.
 
 O script "Bloco 03 - Treino/01-treino.py" foi utilizado para treinar a lógica de programação com condicionais, comparando valores e tomando decisões. Aprendi que uma boa prática é pular uma linha para demonstrar o fim de uma lógica simples e duas linhas para demonstrar o fim de uma lógica mais complexa. Além disso, também aprendi que para pular linhas renderizadas é necessário utilizar "\n" no final da frase para melhorar a formatação do texto.
 
@@ -32,3 +32,10 @@ O script "Bloco 03 - Treino/01-treino.py" foi utilizado para treinar a lógica d
   f. O código está redundante justamente para eu poder aprender e entender melhor as condicionais.
   
 Estou muito contente com o que eu fiz, conforme eu for aprendendo mais coisas, vou tentar simular novas situações. Esse simulador/comparador de carros é um ótimo exemplo de como aplicar condicionais em um cenário real.
+
+
+<> [webdev/*] Criei uma nova sessão para treinar o que eu aprendi em "Noções básicas de HTML/CSS" -- Foram 15 execícios seguidos e um total de 24 arquivos entre HTML e CSS.
+
+Resolvi realizar os exercícios do curso dentro do IDE onde senti mais eficiente do que no ambiente online.
+
+Hoje ficou evidente que, por mais que eu saiba como fazer algo, a regra quando não praticada é bem difícil de lembrar sem algum tipo de apoio. E a repetição é o melhor exercício para fixar o conhecimento.
