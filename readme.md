@@ -35,7 +35,7 @@ f. O código está redundante justamente para eu poder aprender e entender melho
 
 Estou muito contente com o que eu fiz. Conforme eu for aprendendo mais coisas, vou tentar simular novas situações. Esse simulador/comparador de carros é um ótimo exemplo de como aplicar condicionais em um cenário real.
 
-
+#
 <> [webdev/*] Criei uma nova sessão para treinar o que eu aprendi em "Noções básicas de HTML/CSS" -- Foram 15 exercícios seguidos e um total de 24 arquivos entre HTML e CSS.
 
 Resolvi realizar os exercícios do curso dentro da IDE, onde senti ser mais eficiente do que no ambiente online.
