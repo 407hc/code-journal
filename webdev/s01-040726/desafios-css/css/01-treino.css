@@ -1,0 +1,16 @@
+h1 {
+    width: 100%;
+    text-align: center;
+}
+
+strong {
+    color: gold;
+}
+
+em {
+    color: silver;
+}
+
+td {
+    font-size: 20px;
+}

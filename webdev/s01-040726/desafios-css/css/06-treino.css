@@ -1,0 +1,20 @@
+/*Complete the CSS img ruleset such that each image has 5px of left and right margin and 10px of top and bottom margin.
+
+Tasks:
+
+    Add 5px of left and right margin to every img element.
+    Add 10px of top and bottom margin to every img element.*/
+
+body {
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+img {
+    height: 90px;
+    width: 90px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

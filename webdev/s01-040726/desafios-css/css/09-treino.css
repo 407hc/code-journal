@@ -1,0 +1,24 @@
+/*Projeto: Criar um perfil de desenvolvedor de software parecido com o Linktree.*/
+body {
+    background-color: rgb(172, 171, 166);
+    text-align: center;
+    font-family: "Trebuchet MS";
+    color: black;
+}
+img {
+    border-radius: 75px;
+}
+
+h2 {
+    font-size: 18px;
+}
+a {
+    display: block;
+    background-color: darkslategray;
+    font-size: 20px;
+    color: lightgoldenrodyellow;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}

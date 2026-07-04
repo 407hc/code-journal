@@ -1,0 +1,9 @@
+/*Add a CSS rule to target and change the image so that it fits the page properly.
+
+Tasks:
+
+    Add a CSS rule targeting img elements that sets its width property to 100%.*/
+
+img {
+    width: 100%;
+}

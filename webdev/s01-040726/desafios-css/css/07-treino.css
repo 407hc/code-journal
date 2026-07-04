@@ -1,0 +1,26 @@
+/*Let's add padding to the below informational site.
+
+Tasks:
+
+    Using shorthand notation, set the following padding on the body element: 40px of top padding, 10px of left and right padding, and 0px of bottom padding.
+    Next, add 5% left padding to p tags.
+    Use an ID selector to make the last paragraph bold.*/
+
+body {
+    padding-top: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+}
+
+p {
+    padding-left: 5%;
+}
+
+#last-paragraph {
+    font-weight: bold;
+}
+
+img {
+    width: 100%;
+}

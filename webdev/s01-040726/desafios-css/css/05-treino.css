@@ -1,0 +1,22 @@
+/*All tests passed. Continue to finish the challenge.
+
+Now, a "Book Trip" button has been added to the bottom of the page. Complete the tasks to style its appearance.
+
+Tasks:
+
+    First, target the button element and set its border properties to 1px wide, a solid border, and the color gray. Do this in a single line.
+    Next, set the border-radius property to 10px.
+    Next, set the background-color property to lightblue.
+    Finally, make the button as wide as the body element.
+
+Ensure all CSS values are written in lowercase.*/
+img {
+    width: 100%;
+}
+
+button {
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: lightblue;
+    width: 100%;
+}
