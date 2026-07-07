@@ -1,8 +1,16 @@
+# s03-060726
+<> [python/*] Nesta sessão, estou praticando Loops. Como exercício, estou recriando um script de análise de carros.
+
 # s01-060726
 <> [javascript/*] Nesta sessão, estou praticando a criação de variáveis e renderização de conteúdo no console.
 
-
 # s02-040726
+<> [html/*] Criei uma nova sessão para treinar o que eu aprendi em "Noções básicas de HTML/CSS" -- Foram 15 exercícios seguidos e um total de 24 arquivos entre HTML e CSS.
+#
+<> [css/*] Resolvi realizar os exercícios do curso dentro da IDE, onde senti ser mais eficiente do que no ambiente online.
+
+Hoje ficou evidente que, por mais que eu saiba como fazer algo, a regra, quando não praticada, é bem difícil de lembrar sem algum tipo de apoio. E a repetição é o melhor exercício para fixar o conhecimento.
+#
 <> [python/*] Nesta sessão, estou praticando a criação de variáveis e condicionais em um novo cenário hipotético.
 
 O script "Bloco 03 - Treino/01-treino.py" foi utilizado para treinar a lógica de programação com condicionais, comparando valores e tomando decisões. Aprendi que uma boa prática é pular uma linha para demonstrar o fim de uma lógica simples e duas linhas para demonstrar o fim de uma lógica mais complexa. Além disso, também aprendi que para pular linhas renderizadas é necessário utilizar "\n" no final da frase para melhorar a formatação do texto.
@@ -20,13 +28,6 @@ e. Aproveitei o uso de f-strings para sinalizar opções vantajosas ao apresenta
 f. O código está redundante justamente para eu poder aprender e entender melhor as condicionais.
 
 Estou muito contente com o que eu fiz. Conforme eu for aprendendo mais coisas, vou tentar simular novas situações. Esse simulador/comparador de carros é um ótimo exemplo de como aplicar condicionais em um cenário real.
-
-#
-<> [frontend/*] Criei uma nova sessão para treinar o que eu aprendi em "Noções básicas de HTML/CSS" -- Foram 15 exercícios seguidos e um total de 24 arquivos entre HTML e CSS.
-
-Resolvi realizar os exercícios do curso dentro da IDE, onde senti ser mais eficiente do que no ambiente online.
-
-Hoje ficou evidente que, por mais que eu saiba como fazer algo, a regra, quando não praticada, é bem difícil de lembrar sem algum tipo de apoio. E a repetição é o melhor exercício para fixar o conhecimento.
 
 
 # s01-030726
